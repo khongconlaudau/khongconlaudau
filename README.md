@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="GG.jpg"  />
+<img align="right" height="200" src="GG.jpg"  />
 
 ###
 
