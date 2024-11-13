@@ -1,5 +1,5 @@
 <h2 align="left">Hi there 👋! It's Mason. A small guy has a big dream 😁</h2>
-
+`Coder (Dev/Student`
 ###
 
 <div align="center">
