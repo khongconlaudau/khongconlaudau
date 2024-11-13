@@ -1,4 +1,5 @@
-<h2 align="left">Hi there👋! It's Mason. A small guy has a big dream ![MusicGIF](https://github.com/user-attachments/assets/71ab40c2-2ee3-44a9-a39b-93e82a0822b8)
+<h2 align="left">Hi there👋! It's Mason. A small guy has a big dream <video href="![MusicGIF (2)](https://github.com/user-attachments/assets/41204db4-30cc-40d8-a707-5678a01a7ec2)
+"></video>
 </h2>
 <b><sub> Coder (Dev/Student) </sub></b>
 <div align="center">
